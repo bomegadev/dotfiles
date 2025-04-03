@@ -6,7 +6,7 @@ $ cd ~/.dotfiles
 $ stow .
 ```
 # Setup tmux
-### Download Tmux Plugin Manager (TPM)
+### Download [Tmux Plugin Manager (TPM)](https://github.com/tmux-plugins/tpm)
 ```bash
 $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 $ tmux
